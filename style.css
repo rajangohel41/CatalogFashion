@@ -138,7 +138,7 @@ body {
 /* The dropdown container */
 .dropdown {
   float: left;
-  overflow: show;
+  overflow: hidden;
 }
 
 /* Dropdown button */
