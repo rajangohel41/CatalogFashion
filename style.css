@@ -230,6 +230,7 @@ body {
 }
 
 #feature .fe-box {
+	background-color: red;
   width: 180px;
   text-align: center;
   padding: 25px 15px;
